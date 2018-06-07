@@ -1,4 +1,2 @@
 pyalveo
 nltk
-matplotlib
-pandas
