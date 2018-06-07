@@ -1,1 +1,5 @@
 pyalveo
+nltk
+matplotlib
+pandas
+numpy
